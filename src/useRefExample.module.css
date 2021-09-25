@@ -1,0 +1,17 @@
+.use-ref-example-container {
+  margin: 4px;
+}
+
+.use-ref-example-container > * {
+  margin-left: 8px;
+}
+
+.use-ref-example-container > *:first-child {
+  margin-left: 0px;
+}
+
+.use-ref-example-message {
+  font-size: 0.8em;
+  font-style: italic;
+  color: palevioletred;
+}

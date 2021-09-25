@@ -1,0 +1,8 @@
+.example-box-container {
+  margin: 20px 40px;
+  background-color: #ddeeff;
+}
+
+.example-box-inner {
+  padding: 20px 40px;
+}

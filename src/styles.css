@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+dl {
+  text-align: left;
+}
+dt {
+  font-size: 1.4em;
+  font-weight: 600;
+}
