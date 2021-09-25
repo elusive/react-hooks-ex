@@ -1,6 +1,6 @@
 import "./styles.css";
-import ExampleBox from "./exampleBox";
-import UseRefExample from "./useRefExample";
+import ExampleBox from "./components/exampleBox";
+import UseRefExample from "./components/useRefExample";
 
 export default function App() {
   return (

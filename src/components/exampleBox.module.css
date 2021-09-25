@@ -5,4 +5,6 @@
 
 .example-box-inner {
   padding: 20px 40px;
+  width: auto;
+  max-width: 400px;
 }

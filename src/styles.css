@@ -1,5 +1,6 @@
 .App {
   font-family: sans-serif;
+  font-size: 14pt;
   text-align: center;
 }
 
@@ -7,6 +8,22 @@ dl {
   text-align: left;
 }
 dt {
-  font-size: 1.4em;
+  margin-left: 10px;
+  font-size: 1.5em;
   font-weight: 600;
+}
+dd {
+  text-align: justify;
+  margin-right: 40px;
+}
+
+button {
+  min-width: 80px;
+  max-width: 120px;
+  margin: 4px;
+  font-size: 0.9em;
+}
+
+input {
+  font-size: 0.9em;
 }
